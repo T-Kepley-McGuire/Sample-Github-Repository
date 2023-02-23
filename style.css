@@ -7,7 +7,12 @@ h1 {
     font-size: 26px;
 }
 
-nav li {
+header nav li {
     color : rgb(94, 190, 158);
     font-size : 22px;
+}
+
+footer nav li {
+    color : rgb(94, 190, 158);
+    font-size: 12px;
 }
