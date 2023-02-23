@@ -1,0 +1,13 @@
+body {
+    background-color: darkslategray;
+}
+
+h1 {
+    color : aquamarine;
+    font-size: 26px;
+}
+
+nav li {
+    color : rgb(94, 190, 158);
+    font-size : 22px;
+}
