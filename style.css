@@ -1,18 +1,39 @@
 body {
-    background-color: darkslategray;
+    background-color: rgb(31, 31, 31);
 }
 
 h1 {
     color : aquamarine;
     font-size: 26px;
+    text-align: center;
 }
 
-header nav li {
+header nav {
     color : rgb(94, 190, 158);
-    font-size : 22px;
+    font-size : 18px;
+    text-align: center;
 }
 
-footer nav li {
+main {
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    text-align: left;
+    color :rgb(94, 190, 158);
+
+}
+
+
+footer {
+    border-style: solid;
+    border-color :rgb(94, 190, 158);
+    margin-top : 100px;
+    margin-bottom : 100px;
+    margin-right : 10%;
+    margin-left: 10%;
+}
+
+footer nav  {
     color : rgb(94, 190, 158);
     font-size: 12px;
 }
